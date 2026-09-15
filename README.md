@@ -74,21 +74,3 @@ Readmission rate rises steadily with patient age, from 18% in the youngest brack
 4. Download `diabetic_data.csv` from the Kaggle dataset link above and place it in `data/raw/`
 5. Run the pipeline: `python main.py`
 6. Open `dashboard/healthcare_dashboard.pbix` in Power BI Desktop and connect to your local database
-
-## Project Structure
-
-healthcare-bi-pipeline/
-├── data/
-│   ├── raw/            # original CSV (not tracked in git)
-│   └── processed/      # cleaned output
-├── src/
-│   ├── extract.py
-│   ├── transform.py
-│   └── load.py
-├── sql/
-│   └── queries.sql
-├── dashboard/
-│   └── healthcare_dashboard.pbix
-├── main.py
-├── requirements.txt
-└── README.md
