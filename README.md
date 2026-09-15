@@ -1,9 +1,7 @@
-<img width="1309" height="734" alt="image" src="https://github.com/user-attachments/assets/afb74ecd-3b3e-4d2e-99be-e996413137f7" />
-
-
 # Healthcare Data Pipeline & BI Dashboard
 
-![Dashboard Preview](dashboard/screenshot.png)
+<img width="1309" height="734" alt="image" src="https://github.com/user-attachments/assets/afb74ecd-3b3e-4d2e-99be-e996413137f7" />
+
 
 An end-to-end data engineering and BI project: a Python ETL pipeline that extracts, cleans, and loads real-world diabetic patient encounter data into PostgreSQL, paired with an interactive Power BI dashboard connected live to the database.
 
